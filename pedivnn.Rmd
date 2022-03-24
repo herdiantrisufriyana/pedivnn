@@ -1,0 +1,29 @@
+---
+title: 'Supplementary Information: Preeclampsia Prognostication by DIVNN'
+author:
+  - name: Herdiantri Sufriyana
+    affiliation:
+    - &gibi Graduate Institute of Biomedical Informatics, College of Medical
+      Science and Technology, Taipei Medical University, Taipei, Taiwan
+    - Department of Medical Physiology, Faculty of Medicine, Universitas 
+      Nahdlatul Ulama Surabaya, Surabaya, Indonesia
+    email: herdiantrisufriyana@unusa.ac.id
+  - name: Yu-Wei Wu
+    affiliation:
+    - *gibi
+    - &tmuh Clinical Big Data Research Center, Taipei Medical University
+      Hospital, Taipei, Taiwan
+  - name: Emily Chia-Yu Su
+    affiliation:
+    - *gibi
+    - *tmuh
+    - Research Center for Artificial Intelligence in Medicine, Taipei Medical
+      University, Taipei, Taiwan
+output: 
+  html_document
+  # pdf_document
+  # word_document:
+  #   reference_docx: styles_pedivnn.docx
+always_allow_html: yes
+---
+
